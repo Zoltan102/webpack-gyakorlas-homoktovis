@@ -1,7 +1,7 @@
 {
   "name": "webpack-gyakorlas-homoktovis",
   "version": "1.0.0",
-  "description": "",
+  "description": "* Klónozás után futtasd le az \"npm install\" utasítást.\r * Fordításhoz használd az \"npx webpack watch\" utasítást.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -20,5 +20,9 @@
     "style-loader": "^3.3.1",
     "webpack": "^5.74.0",
     "webpack-cli": "^4.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zoltan102/webpack-gyakorlas-homoktovis.git"
   }
 }
