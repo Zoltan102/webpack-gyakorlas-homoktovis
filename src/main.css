@@ -1,0 +1,20 @@
+body{
+    background-image: url(/images/hatter.png);
+}
+body header{
+    background-color: orange;
+    width: 80%;
+    height: 100px;
+    margin: auto;
+}
+
+body nav{
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+}
+nav a{
+    color: orange;
+    text-decoration: none;
+}
